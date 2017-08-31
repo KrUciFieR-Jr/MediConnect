@@ -1,0 +1,29 @@
+{
+  "name": "mediconnect",
+  "version": "1.0.0",
+  "description": "This is a Social Networking Web App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrUciFieR-Jr/MediConnect.git"
+  },
+  "author": "Karthik Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrUciFieR-Jr/MediConnect/issues"
+  },
+  "homepage": "https://github.com/KrUciFieR-Jr/MediConnect#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-sanitizer": "^1.0.2",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.9",
+    "nodemon": "^1.11.0",
+    "passport": "^0.4.0"
+  }
+}

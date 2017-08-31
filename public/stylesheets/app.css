@@ -1,0 +1,18 @@
+.navbar-brand{
+  font-size:24px;
+                 
+}
+.nav li{
+  padding-left:20px;
+  font-size:20px;
+}
+.glyphicon{
+ color:red;
+}
+#brand{
+ color:white;
+}
+
+label{
+color:#026;
+}
